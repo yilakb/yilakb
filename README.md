@@ -1,4 +1,4 @@
-[![MasterHead](https://nairametrics.com/wp-content/uploads/2021/09/Lightning-Network.jpg?w=900)](https://yilakkidane.com)
+[![MasterHead](https://applicature.com/wp-content/uploads/2018/11/Bitcoin-Lightning-Network.jpg)](https://yilakkidane.com)
 
 <h1 align="center">Hi 👋, I'm yilak kidane</h1>
 <h3 align="center">A passionate Bitcoin developer from Ethiopia.</h3>
