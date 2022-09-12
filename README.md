@@ -1,4 +1,4 @@
-[![MasterHead](https://applicature.com/wp-content/uploads/2018/11/Bitcoin-Lightning-Network.jpg)](https://yilakkidane.com)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJBkPSVOonjXVv0vzfeXHW-hbrSZWA8E4j4hjUECi7Y-mCTqYhrLWKV4TuvuAHoxrMLRE&usqp=CAU)](https://yilakkidane.com)
 
 <h1 align="center">Hi 👋, I'm yilak kidane</h1>
 <h3 align="center">A passionate Bitcoin developer from Ethiopia.</h3>
