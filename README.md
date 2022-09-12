@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cointribune.com/app/uploads/2020/12/kraken-lightning-network.jpg)](https://yilakkidane.com)
+[![MasterHead](https://www.bitcoinmarketjournal.com/wp-content/uploads/2020/01/lightning-network-coins.jpg)](https://yilakkidane.com)
 
 <h1 align="center">Hi 👋, I'm yilak kidane</h1>
 <h3 align="center">A passionate Bitcoin developer from Ethiopia.</h3>
