@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **yilak@lbtil.com**
 
-- ⚡ Fun fact **Pushing for Bitcoin adoption.**
+- ⚡ Fun fact **Absolutely despise Centralized shitcoin Cousino Posing as decentralized network.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
